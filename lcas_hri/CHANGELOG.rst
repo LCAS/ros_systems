@@ -2,8 +2,8 @@
 Changelog for package lcas_hri
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2014-10-22)
+------------------
 * Fixing mongodb dependencies
 * Contributors: Christian Dondrup
 
