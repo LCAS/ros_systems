@@ -2,6 +2,11 @@
 Changelog for package lcas_hri
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fixing mongodb dependencies
+* Contributors: Christian Dondrup
+
 0.0.1 (2014-10-22)
 ------------------
 * First version metapackage for project students.
