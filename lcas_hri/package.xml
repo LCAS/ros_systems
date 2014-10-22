@@ -16,7 +16,9 @@
   
   <!--Mongo DB-->
   <run_depend>mongodb_store</run_depend>
-  <run_depend>mongodb_store_log</run_depend>
+  <run_depend>mongodb_log</run_depend>
+  <run_depend>mongodb_store_msgs</run_depend>
+  <run_depend>mongodb</run_depend>
   
   <!--Morse-->
   <run_depend>strands_morse</run_depend>
