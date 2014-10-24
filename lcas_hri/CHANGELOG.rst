@@ -2,8 +2,8 @@
 Changelog for package lcas_hri
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.3 (2014-10-24)
+------------------
 * Removing scitos_drivers to not install mira
   Adding strands_movebase since it released now.
 * Contributors: Christian Dondrup
